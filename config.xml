@@ -6,10 +6,10 @@
         id        = "com.phonegap.helloworld"
         version   = "1.0.0">
 
-    <name>Application Lifecycle Test</name>
+    <name>Location Test</name>
 
     <description>
-        A sample application that counts the occurances of lifecycle events.
+        A sample application that retrieves location data.
     </description>
 
     <author href="worcester.ac.uk" email="wese1_1@uni.worc.ac.uk">
